@@ -2,7 +2,7 @@
 
 I have created this Dashboard using [Tableau Public](https://public.tableau.com/app/discover).
 
-- First the data has been imported into tableau.
+- First the data has been imported into tableau. For Dataset Link - [Click Here](https://github.com/IamJafar/HR_Analytics/blob/main/HR%20Data.xlsx)
 - Created the **Key Performance Indicators** like Employee count, Attrition count, Attrition rate, Active employees, Avg age of the employees by using the calculated field.
 - Plotted the department wise attrition using the **pie chart**.
 - Age wise employee count is plotted using **bar chart**.
